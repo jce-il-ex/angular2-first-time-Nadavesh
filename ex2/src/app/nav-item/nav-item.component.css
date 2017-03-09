@@ -1,0 +1,13 @@
+
+.rec{
+    background-color: black;
+    padding: 15px 20px;
+    margin: 1px;
+}
+
+.rec a{
+    font-size: 36px;
+    color: white;
+    font-family: bold;
+    text-decoration: none;
+}
